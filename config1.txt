@@ -1,0 +1,12 @@
+program_input=Input.asm
+memory_contents_input=memInput.txt
+register_file_input=regInput.txt
+#output_mode=batch
+output_mode=single_step
+#output_mode=batch
+print_memory_contents=true
+#blabla test program_input is something
+
+debug_mode=true
+
+#output_mode=batch
